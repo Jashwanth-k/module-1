@@ -1,0 +1,1 @@
+const deStructuring = function (obj) {};
